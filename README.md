@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karolina!</h1>
-<h3 align="center">Junior data analyst passionate about learning new things about data!</h3>
+## 👋 **Hi, I'm Karolina!**
 
-<h3 align="left">On my profile you can find few projects I created during my Data Analyst formation with Wild Code School</h3>
+Junior data analyst passionate about learning new things about data! 
+Passionate about technology, I decided to transition into the field of data. In my profile you can find few projects I created during my Data Analyst formation with Wild Code School.
 
-- 🔭 I’m currently working on **A platform to facilitate finding a job in Data**
+- 🔭 I’m currently working on **A platform to facilitate finding a job in Data**, collecting data using Selenium and BeautifulSoup and working on our own database.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
