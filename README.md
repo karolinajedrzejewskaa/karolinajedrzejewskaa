@@ -14,8 +14,8 @@ On my profile, you’ll find several projects that I developed during my Data An
 | ![SQL](images/iloveimg-resized/sql-svgrepo-com.svg) SQL | ![Pandas](images/pandas-color.svg) Pandas | ![colab](images/googlecolab-color.svg) Google Colab |
 | | ![Matplotlib](images/iloveimg-resized/Matplotlib_icon.svg) Matplotlib | ![vscode](images/visualstudiocode-color.svg) VS Code |
 | | ![Seaborn](images/iloveimg-resized/logo-tall-lightbg.svg) Seaborn | ![Power BI](images/iloveimg-resized/power-bi-icon.svg) Power BI |
-| | ![scikit-learn](images/scikitlearn-color.svg) scitkit-learn | ![MySQL](images/iloveimg-resized/mysql-icon.svg) MySQL |
-| | ![Plotly](images/iloveimg-resized/plotly-icon.svg) Plotly |  ![github](images/github-color.svg) Github |
+| | ![Plotly](images/iloveimg-resized/plotly-icon.svg) Plotly | ![MySQL](images/iloveimg-resized/mysql-icon.svg) MySQL |
+| | ![scikit-learn](images/scikitlearn-color.svg) scitkit-learn |  ![github](images/github-color.svg) Github |
 | | | ![discord](images/discord-color.svg) Discord  |
 
  
