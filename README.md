@@ -1,10 +1,8 @@
 ## 👋 **Hi, I'm Karolina!**
 
-Junior data analyst passionate about learning new things and creating new projects! 
-
 Driven by a deep interest in technology, I made the decision to transition into the field of data, where I can combine my analytical skills with my creativity. Throughout my journey, I've developed a strong foundation in data analysis, from data cleaning and visualization to building predictive models. I am constantly seeking new challenges that allow me to grow and expand my knowledge.
 
-On my profile, you’ll find several projects that I developed during my Data Analyst training at Wild Code School, where I honed my ability to turn raw data into actionable insights. I'm excited to continue exploring the endless possibilities within the data field and to contribute to meaningful projects that make a difference.
+On my profile, you’ll find several projects that I developed using my ability to turn raw data into actionable insights. I'm excited to continue exploring the endless possibilities within the data field and to contribute to meaningful projects that make a difference.
 
 ## Skills
 
